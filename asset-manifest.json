@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reddit-offline/static/css/main.5f361e03.chunk.css",
-    "main.js": "/reddit-offline/static/js/main.2a9bd9fb.chunk.js",
-    "main.js.map": "/reddit-offline/static/js/main.2a9bd9fb.chunk.js.map",
+    "main.js": "/reddit-offline/static/js/main.8fbba779.chunk.js",
+    "main.js.map": "/reddit-offline/static/js/main.8fbba779.chunk.js.map",
     "runtime-main.js": "/reddit-offline/static/js/runtime-main.fa512649.js",
     "runtime-main.js.map": "/reddit-offline/static/js/runtime-main.fa512649.js.map",
     "static/js/2.d4ec1651.chunk.js": "/reddit-offline/static/js/2.d4ec1651.chunk.js",
     "static/js/2.d4ec1651.chunk.js.map": "/reddit-offline/static/js/2.d4ec1651.chunk.js.map",
     "index.html": "/reddit-offline/index.html",
-    "precache-manifest.15efa40f4c59fe44368220a13723c2b2.js": "/reddit-offline/precache-manifest.15efa40f4c59fe44368220a13723c2b2.js",
+    "precache-manifest.8a828155fbb0efe01e5e156be614f0b4.js": "/reddit-offline/precache-manifest.8a828155fbb0efe01e5e156be614f0b4.js",
     "service-worker.js": "/reddit-offline/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/reddit-offline/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.d4ec1651.chunk.js.LICENSE.txt": "/reddit-offline/static/js/2.d4ec1651.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fa512649.js",
     "static/js/2.d4ec1651.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.2a9bd9fb.chunk.js"
+    "static/js/main.8fbba779.chunk.js"
   ]
 }
