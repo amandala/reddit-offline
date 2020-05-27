@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "923ce7145e36c08a0ef322c6948ea3c3",
+    "revision": "e2bc38592634883cecb687b2ae5e1eb1",
     "url": "/reddit-offline/index.html"
   },
   {
-    "revision": "01c0ae62045ce508f197",
-    "url": "/reddit-offline/static/css/main.8721feb5.chunk.css"
+    "revision": "4c2d9e23ec89aa24f428",
+    "url": "/reddit-offline/static/css/main.ad178dae.chunk.css"
   },
   {
     "revision": "6540532bf233f048982f",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reddit-offline/static/js/2.d4ec1651.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "01c0ae62045ce508f197",
+    "revision": "4c2d9e23ec89aa24f428",
     "url": "/reddit-offline/static/js/main.9ad9ca36.chunk.js"
   },
   {
